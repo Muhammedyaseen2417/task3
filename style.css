@@ -1,14 +1,9 @@
-
-.task{
-    text-align: center;
-    text-transform: capitalize;
+#box{
+    background-color: blue;
 }
-*{
-    font-family: 'Times New Roman', Times, serif;
+.heading{
+     color: brown;
 }
-#outer{
-    font-size: 25px;
-}
-#inner{
-    font-size: 10px;
+.button{
+    background-color: green;
 }
